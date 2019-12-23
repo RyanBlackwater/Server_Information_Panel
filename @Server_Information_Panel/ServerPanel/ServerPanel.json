@@ -1,9 +1,9 @@
 {
-    "SERVERNAME": "Welcome on MyDAyZ server !! - Hosted By MyDayZ.eu",
+    "SERVERNAME": "Welcome to Grumpy Old Men !!" ,
     "BUTTON1NAME": "DISCORD",
-    "BUTTON1LINK": "https://discord.gg/KAgNn6K",
-    "BUTTON2NAME": "WEBSITE",
-    "BUTTON2LINK": "https://mydayz.eu",
+    "BUTTON1LINK": "https://discord.gg/XV66D8f",
+    "BUTTON2NAME": "TeamSpeak",
+    "BUTTON2LINK": "ts3server://grumpyoldmen.teamspeak3.com",
     "BUTTON3NAME": "DONATE",
     "BUTTON3LINK": "https://www.paypal.me/MyDayZ",
     "BUTTONTAB0NAME": "TAB0",
@@ -12,41 +12,28 @@
     "BUTTONTAB3NAME": "",
     "DISPLAYPLAYERINFO": 1,
     "DISPLAYPLAYERTAB": 1,
-    "sServerTab0": [
-        "Write your informations Tab0 0",
-        "Write your informations Tab0 1",
-        "Write your informations Tab0 2",
-        "Write your informations Tab0 3",
-        "Write your informations Tab0 4",
-        "Write your informations Tab0 5",
-        "Write your informations Tab0 6",
-        "Write your informations Tab0 7",
-        "Write your informations Tab0 8",
-        "Write your informations Tab0 9"
+    "sServerTab=": [
+        "No Kill on Sight! we are friendly",
+        "No Base Raiding you are responsible for you own base lock it up",
+        "Cars. Use at your own risk. we aren't a insurance company if you loose it thats on you",
+        "No cars at traders they will be deleted by one of our very friendly admins",
+        "No screaming in proximity chat in the trader zones",
+        "No Cap locks in chat",
+        "Admins are always right, don't question them."
     ],
     "sServerTab1": [
-        "Write your informations Tab1 0",
-        "Write your informations Tab1 1",
-        "Write your informations Tab1 2",
-        "Write your informations Tab1 3",
-        "Write your informations Tab1 4",
-        "Write your informations Tab1 5",
-        "Write your informations Tab1 6",
-        "Write your informations Tab1 7",
-        "Write your informations Tab1 8",
-        "Write your informations Tab1 9"
+        "1 Base Per team or player",
+        "2 Wall high towers are limited to 4 stories 50x50 on the walls",
+        "Bases are limited to 6 tents in total!",
+        "No bases within 1000m of traders and military zones.",
+        "Checkpoints are not classed as mil bases.",
+        "Any bases within them zones will be deleted so bye bye shit in the tent"
     ],
     "sServerTab2": [
-        "Write your informations Tab2 0",
-        "Write your informations Tab2 1",
-        "Write your informations Tab2 2",
-        "Write your informations Tab2 3",
-        "Write your informations Tab2 4",
-        "Write your informations Tab2 5",
-        "Write your informations Tab2 6",
-        "Write your informations Tab2 7",
-        "Write your informations Tab2 8",
-        "Write your informations Tab2 9"
+        "PVP we DO NOT HAVE a pvp zone",
+        "Traders these are located at Green Mountain and Gorka",
+        "Prison, if you are caught breaking the rules you will be put into prision, you will not be able to recover your gear.",
+        "You will serve how ever much time which we see if, continue to break the rules and you WILL be banned"
     ],
     "sServerTab3": [
         ""
